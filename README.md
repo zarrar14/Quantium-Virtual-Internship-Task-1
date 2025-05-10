@@ -68,6 +68,9 @@ To analyze customer transaction data and:
 Based on the analysis:
 > Focus marketing and promotional efforts on **high-value customer segments**, particularly **premium young singles/couples**, and stock popular chip brands preferred by these groups. Leverage time-based sales trends to optimize inventory and campaign timing.
 
+
+
+
 ---
 
 ## Files
